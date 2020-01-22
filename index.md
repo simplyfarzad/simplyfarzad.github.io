@@ -17,7 +17,7 @@ B.Sc. of Software Engineering - [Mazandaran University of Science and Technology
 GPA: 17.93 / 20 (3.81 / 4.0) - Ranked 1st\\
 Best Software Engineering Student award for 3 academic years
 
-## Research Interest
+## Research Interests
 * Big Data Analytics
 * Data Science
 * Approximate Computing
