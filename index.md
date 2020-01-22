@@ -7,12 +7,9 @@ This is just a test!
 ## Education
 **2014-2017**
 
-M.Sc. of Computer Engineering, Software - [University of Tehran](https://ut.ac.ir/en)
-
-GPA: 16.96 / 20 (3.63/4.0)
-
-Thesis: "_Performance Analysis of Approximation Methods for Big Data Applications_"
-
+M.Sc. of Computer Engineering, Software - [University of Tehran](https://ut.ac.ir/en)\\
+GPA: 16.96 / 20 (3.63/4.0)\\
+Thesis: "_Performance Analysis of Approximation Methods for Big Data Applications_"\\
 > In this project, we designed a Hadoop based system that was capable of reducing the approximated results' variances compared to previous methods, using statistical methods for iterative and Progressive applications.
 > Candidate of the best thesis amongst Software Engineering students.
 
