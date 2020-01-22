@@ -2,8 +2,6 @@
 layout: default
 ---
 
-This is just a test!
-
 ## Education
 **2014 - 2017**\\
 M.Sc. of Software Engineering - [University of Tehran](https://ut.ac.ir/en)\\
