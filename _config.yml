@@ -3,4 +3,6 @@ logo: /assets/img/avatar.jpg
 description: 
 show_downloads: false
 google_analytics:
+twitter:
+  username: "farzaddev-theme"
 theme: jekyll-theme-minimal
