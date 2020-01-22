@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 ## Education
 **2014 - 2017**\\
 M.Sc. of Software Engineering - [University of Tehran](https://ut.ac.ir/en)\\
@@ -20,6 +21,8 @@ Best Software Engineering Student award for 3 academic years
 * Data Science
 * Approximate Computing
 * Stream Data Processing
+
+;)
 
 <!-- ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
