@@ -5,14 +5,23 @@ layout: default
 This is just a test!
 
 ## Education
-**2014-2017**
-
-M.Sc. of Computer Engineering, Software - [University of Tehran](https://ut.ac.ir/en)\\
+**2014 - 2017**\\
+M.Sc. of Software Engineering - [University of Tehran](https://ut.ac.ir/en)\\
 GPA: 16.96 / 20 (3.63/4.0)\\
-Thesis: "_Performance Analysis of Approximation Methods for Big Data Applications_"
+Thesis: _"Performance Analysis of Approximation Methods for Big Data Applications"_
 > In this project, we designed a Hadoop based system that was capable of reducing the approximated results' variances compared to previous methods, using statistical methods for iterative and progressive applications.
 > * Candidate of the best thesis amongst Software Engineering students.
 
+**2010 - 2014**\\
+B.Sc. of Software Engineering - [Mazandaran University of Science and Technology](https://www.ustmb.ac.ir/En/Index)\\
+GPA: 17.93 / 20 (3.81 / 4.0) - Ranked 1st\\
+Best Software Engineering Student award for 3 academic years
+
+## Research Interest
+* Big Data Analytics
+* Data Science
+* Approximate Computing
+* Stream Data Processing
 
 <!-- ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
