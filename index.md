@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Résumé
+# Data Scientist
 
 ## Education
 **2014 - 2017**\\
